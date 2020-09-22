@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=FereastraPrincipala
+comment1.params=
+comment1.target=FereastraPrincipala()
+comment2.params=
+comment2.target=void\ run()
+comment3.params=ev
+comment3.target=void\ mouseClicked(java.awt.event.MouseEvent)
+comment4.params=ev
+comment4.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment5.params=
+comment5.target=void\ produsAdaugat()
+comment6.params=ev
+comment6.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment7.params=ev
+comment7.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment8.params=
+comment8.target=void\ reAfisare()
+numComments=9

@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=E06DeadLock
+comment0.text=\n\ exemplu\ dead\ lock\ -\ aplicatia\ se\ blocheaza\ pentru\ ca\ firele\ de\ executie\ asteapta\ unul\ dupa\ celalalt\n\ \n\ trebuia\ facut\ cu\ un\ if\ else\n\ \n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=
+comment2.target=void\ run()
+comment3.params=
+comment3.target=void\ run()
+numComments=4

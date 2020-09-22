@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Cont1
+comment1.params=suma
+comment1.target=Cont1(double)
+comment2.params=
+comment2.target=double\ getSold()
+comment3.params=suma
+comment3.target=void\ retrageNumerar(double)
+numComments=4

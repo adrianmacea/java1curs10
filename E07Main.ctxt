@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=E07Main
+comment0.text=\n\ Produs\ -\ bean\ (nume,\ pret)\n\ Magazin\ -\ singleton\n\ Fereastra\ -\ observer\ pattern\n\ FereastraAdaugare\ -\ observer\ pattern\n\ Panou\ in\ partea\ de\ jos\ -\ afiseaza\ nr\ produse\ la\ 1\ secunda\n\ Sterg\ element\ la\ dublu\ click\n\ Caseta\ de\ salvare\n\ Caseta\ de\ deschidere\n\ \n\ Subiect\ este\ fie\ magazinul\ fie\ fereastra\ de\ adaugare,\ alegem\ mai\ degraba\ fereastra\ de\ adaugare.\n\ Fereastra\ principala\ va\ fi\ observatorul\ ferestrei\ de\ adaugare.\n\ Cand\ fereastra\ de\ adaugare\ adauga\ un\ produs,\ fereastra\ principala\ este\ notificata\ si\ va\ adauga\ produsul\ in\ magazin.\n\ Pentru\ a\ realiza\ asta\ vom\ avea\ nevoie\ de\ 2\ interfete\:\ SubiectProdus\ si\ ProdusListener,\ plus\ un\ Adaptor\ (dupa\ caz).\n\ \n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

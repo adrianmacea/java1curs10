@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=E05DouaCarduriCont
+comment0.text=\n\ Conditia\ de\ retragere\ numerar\ este\ pusa\ astfel\ incat\ sa\ nu\ se\ poata\ retrage\ bani\ daca\ sunt\ fonduri\ insuficiente\n\ \n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=
+comment2.target=void\ run()
+comment3.params=
+comment3.target=void\ run()
+numComments=4
